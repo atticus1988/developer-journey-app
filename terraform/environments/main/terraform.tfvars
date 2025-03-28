@@ -1,3 +1,3 @@
-project_id            = # VALUE FOR PROJECT ID
-run_service_name      = # THE NAME OF YOUR RUN SERVICE
-github_repository_url = # THE URL OF YOUR GITHUB REPOSITORY 
+project_id            = "tough-timing-455101-a0"
+run_service_name      = "dev-journey"
+github_repository_url = "https://github.com/atticus1988/developer-journey-app"
